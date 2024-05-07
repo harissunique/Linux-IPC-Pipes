@@ -91,7 +91,8 @@ write(wfd,buff,n);
 
 
 ## OUTPUT
-![image](https://github.com/harissunique/Linux-IPC-Pipes/assets/147139338/d3eb8189-b4df-4604-9089-ad9b711bf6be)
+![image](https://github.com/harissunique/Linux-IPC-Pipes/assets/147139338/4ccc2ef0-cfe6-433e-b004-321db0b16a58)
+
 
 
 
@@ -115,7 +116,8 @@ exit(EXIT_SUCCESS);
 
 
 ## OUTPUT
-![image](https://github.com/harissunique/Linux-IPC-Pipes/assets/147139338/054315e0-63ee-4deb-975c-b7e26e217f8c)
+![image](https://github.com/harissunique/Linux-IPC-Pipes/assets/147139338/3a7b1df8-bae0-4732-872a-24b29ccb4436)
+
 
 
 # RESULT:
