@@ -28,7 +28,7 @@ Developed By : HARISHKUMAR R
 Register Number:212223230073
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
-```py
+```c
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h> 
@@ -97,7 +97,7 @@ write(wfd,buff,n);
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
 
-```py
+```c
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>
